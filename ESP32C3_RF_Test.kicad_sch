@@ -3804,7 +3804,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f15de1c3-f77c-45c8-87bd-22e63a7159ab)
     (property "Reference" "U1" (id 0) (at 128.27 35.56 0))
-    (property "Value" "ESP32-C3" (id 1) (at 128.27 38.1 0))
+    (property "Value" "ESP32-C3FH4" (id 1) (at 128.27 38.1 0))
     (property "Footprint" "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias" (id 2) (at 128.27 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4245,7 +4245,7 @@
       (reference "SW2") (unit 1) (value "SW_BOOT") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC7xxJ")
     )
     (path "/f15de1c3-f77c-45c8-87bd-22e63a7159ab"
-      (reference "U1") (unit 1) (value "ESP32-C3") (footprint "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias")
+      (reference "U1") (unit 1) (value "ESP32-C3FH4") (footprint "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias")
     )
     (path "/2ad833bb-132a-4e56-9c22-3b599638690c"
       (reference "U2") (unit 1) (value "RT9013-33GB") (footprint "Package_TO_SOT_SMD:TSOT-23-5")
